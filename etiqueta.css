@@ -1,0 +1,35 @@
+<style type="text/css">
+
+body{
+background:blue;
+background-image: url("http://proyectos4.udavinci.edu.mx/draftfile.php/753/user/draft/191119849/imagen.jpg");
+                                           /*Fondo: imagen.jpg*/
+background-repeat: repeat-x;               /*Repetir fondo: eje X*/
+background-position: center;               /*Posición de fondo: centrado*/
+
+box-shadow: 0px 2px 2px rgba(0,0,0,0.5);   /*Sombra del elemento: 0px 2px 2px rgba(0,0,0,0.5)*/
+box-width: 95%;                            /*Ancho de banner: 95%*/
+
+}
+
+div{
+border-radius: 10px;                       /*Radio de bordes: 10px*/    
+border-width: 1px;                         /*Ancho de borde: 1px*/
+border-style: dotted dotted dotted dotted; /*Tipo de borde: punteado*/
+border-color: #fff #fff #fff #fff;         /*Color de borde: blanco*/
+
+margin-right: auto;                        /*Margen derecho: automático*/
+margin-left: auto;                         /*Margen izquierdo: automático*/
+margin-top: 5px;                           /*Margen arriba: 5px*/
+margin-bottom: 5px;                        /*Margen abajo: 5px*/
+padding: 5px;                              /*Espacio de relleno: 5px*/
+
+background:cyan;
+color: #fff;                               /*Color de Texto: blanco*/
+font-size: 2em;                            /*Tamaño de Texto: 2em*/
+font-weight: bond;                         /*Grosor del Texto: negrita*/
+font-family: Bebas Neue;                   /*Tipo de Letra: BebasNeue*/
+text-shadow: 0px 2px 2px rgba(0,0,0,0.5);  /*Sombra del elemento: 0px 2px 2px rgba(0,0,0,0.5)*/
+}
+
+</style>
