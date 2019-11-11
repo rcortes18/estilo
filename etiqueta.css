@@ -12,7 +12,7 @@ box-width: 95%;                            /*Ancho de banner: 95%*/
 
 }
 
-#letrero{
+div{
 border-radius: 10px;                       /*Radio de bordes: 10px*/    
 border-width: 1px;                         /*Ancho de borde: 1px*/
 border-style: dotted dotted dotted dotted; /*Tipo de borde: punteado*/
